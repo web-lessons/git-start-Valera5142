@@ -1,0 +1,70 @@
+.square {
+    display: flex;
+    width: 500px;
+    height: auto;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+
+.square2 {
+    display: flex;
+    width: 500px;
+    height: auto;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+
+.square3 {
+    display: flex;
+    width: 500px;
+    height: auto;
+    background-color: purple;
+    padding: 10px;
+    margin: 10px;
+}
+
+.square4 {
+    display: flex;
+    width: 500px;
+    height: auto;
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn {
+    display: flex;
+    width: 30px;
+    height: 50px;
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.square5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: auto;
+    background-color: red;
+    padding: 10px;
+    margin: auto;
+}
+
+.textcent {
+    justify-content: center;
+}
+
+.square6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: auto;
+    background-color: blue;
+    padding: 10px;
+    margin: auto;
+}
